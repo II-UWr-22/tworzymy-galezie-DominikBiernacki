@@ -1,3 +1,7 @@
 Dominik Biernacki
 PLG to szef
 RatIRL
+<<<<<<< HEAD
+=======
+Zielony
+>>>>>>> master
